@@ -45,5 +45,6 @@ Learn. Build. Debug. Improve. Repeat. ✨
 - GitHub: https://github.com/radhika817
 - LinkedIn: https://www.linkedin.com/in/radhika-kandalkar-0066243a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - LeetCode: https://leetcode.com/u/radhikakandalkar_23/
+- Codechef: https://www.codechef.com/users/rk202401040318
 
 ⭐ Thanks for visiting my profile!
