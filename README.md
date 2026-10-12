@@ -1,50 +1,95 @@
-# Hi, I'm Radhika Kandalkar 👋
+<!-- BANNER -->
+<p align="center">
+  <img src="banner.png" width="100%" alt="Radhika's Developer Banner"/>
+</p>
 
-### Computer Engineering Student | Aspiring Software Developer 🚀
+<h1 align="center">Hi, I'm Radhika Kandalkar 👋</h1>
 
-💻 Learning by building, solving DSA problems, and exploring AI.
+<h3 align="center">
+  Computer Engineering Student | Aspiring Software Developer 🚀
+</h3>
+
+<p align="center">
+  Learning by building · DSA & Problem Solving · Exploring AI
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 Third-year Computer Engineering student at MITAOE, Pune.
-- 🌱 Learning Full-Stack Development and Data Structures & Algorithms.
-- 🛠️ Building projects to turn ideas into working applications.
+- 💻 Learning Full-Stack Development and Data Structures & Algorithms.
+- 🛠️ Building practical projects and turning ideas into working applications.
 - 🤖 Exploring AI, Agentic Systems, and Web3.
-- 🎯 Preparing for internships and placements.
-- 🤝 Interested in collaborating on exciting projects.
+- 🎯 Preparing for software engineering internships and placements.
+- 🤝 Interested in collaboration, open source, and continuous learning.
+
+---
 
 ## 🧰 Skills & Technologies
 
-- **Languages:** C++, Python, JavaScript
-- **Frontend:** HTML, CSS, React
-- **Backend:** Node.js, Express.js, REST APIs
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, VS Code, Postman
-- **Currently Exploring:** AI Agents, System Design, Cloud Computing
+| Category | Technologies |
+|---|---|
+| Languages | C++, Python, JavaScript |
+| Frontend | HTML, CSS, React |
+| Backend | Node.js, Express.js, REST APIs |
+| Database | MongoDB |
+| Tools & Platforms | Git, GitHub, VS Code, Postman |
+| Currently Exploring | AI Agents, System Design, Cloud Computing |
+
+---
 
 ## 🚀 Featured Projects
 
-- **SmartRide:** Smart carpooling and ride-sharing platform.
-- **AI Buddy:** AI assistant for meeting summaries and action items.
-- **PrepPulse:** interview preparation platform.
+### 🚗 SmartRide — Smart Carpooling Platform
+A ride-sharing platform focused on connecting commuters, matching routes, and making everyday travel more convenient.
+
+### 🤖 AI Buddy — Virtual Meeting Assistant
+An AI-powered meeting assistant concept for summarizing discussions, extracting action items, tracking decisions, and answering meeting-related questions.
+
+### 🎯 PrepPulse — Interview Preparation Platform
+A platform concept for helping students prepare for technical interviews through curated questions, company-focused preparation, and AI-assisted learning.
+
+---
 
 ## 📚 DSA & Problem Solving
 
-- Practicing Data Structures and Algorithms.
-- Improving problem-solving skills through consistent coding.
-- Preparing for technical interviews.
+- 🧩 Practicing Data Structures and Algorithms.
+- 💡 Improving logical thinking and problem-solving skills.
+- 📈 Building consistency through coding practice.
+- 🎯 Working towards stronger technical interview preparation.
 
-## 🌱 My Journey
+---
 
-Learn. Build. Debug. Improve. Repeat. ✨
+## 🌱 My Developer Journey
+
+I believe in learning by building, experimenting with new technologies, and improving through every challenge.
+
+<p align="center">
+  <b>Learn. Build. Debug. Improve. Repeat. ✨</b>
+</p>
+
+---
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/radhika817
-- LinkedIn: https://www.linkedin.com/in/radhika-kandalkar-0066243a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- LeetCode: https://leetcode.com/u/radhikakandalkar_23/
-- Codechef: https://www.codechef.com/users/rk202401040318
+<p align="left">
+  <a href="https://github.com/radhika817">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/radhika-kandalkar-0066243a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/radhikakandalkar_23/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/rk202401040318">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+</p>
 
-⭐ Thanks for visiting my profile!
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
