@@ -3,26 +3,28 @@
   <img src="banner.png" width="100%" alt="Radhika's Developer Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Radhika Kandalkar 👋</h1>
-
-<h3 align="center">
-  Computer Engineering Student | Aspiring Software Developer 🚀
-</h3>
+<h1 align="center">Hi 👋, I'm Radhika Kandalkar</h1>
 
 <p align="center">
-  Learning by building · DSA & Problem Solving · Exploring AI
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6EA8FE&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%40+MITAOE;Aspiring+Full-Stack+Developer;DSA+%26+Problem+Solving+Enthusiast;Exploring+AI+Agents+%26+Web3" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-2dd4bf?style=for-the-badge" alt="Open to internships"/>
+  <img src="https://komarev.com/ghpvc/?username=radhika817&color=6ea8fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## ⚡ Quick Snapshot
 
-- 🎓 Third-year Computer Engineering student at MITAOE, Pune.
-- 💻 Learning Full-Stack Development and Data Structures & Algorithms.
-- 🛠️ Building practical projects and turning ideas into working applications.
-- 🤖 Exploring AI, Agentic Systems, and Web3.
-- 🎯 Preparing for software engineering internships and placements.
-- 🤝 Interested in collaboration, open source, and continuous learning.
+| | |
+|---|---|
+| 🎓 **Education** | Third-year Computer Engineering, MITAOE, Pune |
+| 💻 **Focus** | Full-Stack Development · Data Structures & Algorithms |
+| 🔭 **Exploring** | AI Agents · System Design · Cloud Computing · Web3 |
+| 🎯 **Goal** | Software engineering internships & placements |
+| 🤝 **Open to** | Collaboration, open source, and continuous learning |
 
 ---
 
@@ -52,29 +54,56 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools and Platforms"/>
 </p>
 
-**Currently Exploring:** AI Agents · System Design · Cloud Computing
-
 ---
 
 ## 🚀 Featured Projects
 
-### 🚗 SmartRide — Smart Carpooling Platform
-A ride-sharing platform focused on connecting commuters, matching routes, and making everyday travel more convenient.
-
-### 🤖 AI Buddy — Virtual Meeting Assistant
-An AI-powered meeting assistant concept for summarizing discussions, extracting action items, tracking decisions, and answering meeting-related questions.
-
-### 🎯 PrepPulse — Interview Preparation Platform
-A platform concept for helping students prepare for technical interviews through curated questions, company-focused preparation, and AI-assisted learning.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🚗 SmartRide</h3>
+      <b>Smart Carpooling Platform</b>
+      <p>Connects commuters, matches routes, and makes everyday travel cheaper and more convenient.</p>
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI Buddy</h3>
+      <b>Virtual Meeting Assistant</b>
+      <p>Summarizes discussions, extracts action items, tracks decisions, and answers meeting-related questions.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI%20Agents-b57edc?style=flat-square"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎯 PrepPulse</h3>
+      <b>Interview Preparation Platform</b>
+      <p>Helps students prepare for technical interviews with curated questions, company-focused prep, and AI-assisted learning.</p>
+      <img src="https://img.shields.io/badge/Full--Stack-6ea8fe?style=flat-square"/>
+      <img src="https://img.shields.io/badge/AI-b57edc?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📚 DSA & Problem Solving
+## 🧩 DSA & Problem Solving
 
-- 🧩 Practicing Data Structures and Algorithms.
-- 💡 Improving logical thinking and problem-solving skills.
-- 📈 Building consistency through coding practice.
-- 🎯 Working towards stronger technical interview preparation.
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/radhikakandalkar_23?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="70%"/>
+</p>
+
+<details>
+<summary><b>My approach to problem solving</b></summary>
+
+<br>
+
+- 🧠 Understand the problem first, then brute force, then optimize.
+- 📈 Consistency over intensity: a little practice every day.
+- 🔁 Revisit mistakes and re-solve hard problems.
+- 🎯 Building towards stronger technical interview preparation.
+
+</details>
 
 ---
 
@@ -90,6 +119,11 @@ A platform concept for helping students prepare for technical interviews through
 <p align="center">
   <img alt="GitHub Streak"
     src="https://streak-stats.demolab.com/?user=radhika817&hide_border=true&background=1c1b29&ring=6ea8fe&fire=6ea8fe&currStreakNum=b57edc&currStreakLabel=b57edc&sideNums=6ea8fe&sideLabels=6ea8fe&dates=2dd4bf"/>
+</p>
+
+<p align="center">
+  <img alt="Contribution Graph" width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=radhika817&bg_color=1c1b29&color=2dd4bf&line=6ea8fe&point=b57edc&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -113,6 +147,7 @@ I believe in learning by building, experimenting with new technologies, and impr
   <a href="https://github.com/radhika817">
     <img src="https://img.shields.io/static/v1?label=GITHUB&message=FOLLOW%20MY%20JOURNEY&labelColor=24292e&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <br/>
   <a href="https://leetcode.com/u/radhikakandalkar_23/">
     <img src="https://img.shields.io/static/v1?label=LEETCODE&message=MY%20PROBLEMS&labelColor=4b4b4b&color=ffa116&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
