@@ -164,9 +164,8 @@ I believe in learning by building, experimenting with new technologies, and impr
 </p>
 
 <p align="center">
-  <i>"Learn consistently. Build thoughtfully. Improve every day."</i>
+  <i>"Turning curiosity into code, and ideas into reality."</i>
 </p>
-
 <p align="center">
   <b>✨ Thanks for visiting my profile! ✨</b>
 </p>
