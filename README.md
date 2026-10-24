@@ -29,29 +29,47 @@
 
 ## 🧰 Tech Stack
 
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,js&theme=dark" alt="Languages"/>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,py,js&theme=dark" alt="Languages"/>
 
 **Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend"/>
 
 **Backend & Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend and Databases"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend and Databases"/>
 
 **Tools & Platforms**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools and Platforms"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools and Platforms"/>
+
+</td>
+    <td width="50%" valign="top">
+
+```js
+const radhika = {
+  role: "Computer Engineering Student",
+  college: "MITAOE, Pune",
+  currentlyLearning: [
+    "Full-Stack Development",
+    "Data Structures & Algorithms",
+    "System Design",
+  ],
+  exploring: ["AI Agents", "Cloud Computing", "Web3"],
+  goal: "Software Engineering Internship",
+  motto: "Learn. Build. Debug. Improve. Repeat.",
+};
+```
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -113,11 +131,6 @@
     src="https://github-readme-stats.vercel.app/api?username=radhika817&show_icons=true&hide_border=true&bg_color=1c1b29&title_color=6ea8fe&text_color=2dd4bf&icon_color=b57edc&count_private=true&include_all_commits=true"/>
   <img height="170" alt="Most Used Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhika817&layout=compact&hide_border=true&bg_color=1c1b29&title_color=6ea8fe&text_color=2dd4bf&langs_count=6"/>
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak"
-    src="https://streak-stats.demolab.com/?user=radhika817&hide_border=true&background=1c1b29&ring=6ea8fe&fire=6ea8fe&currStreakNum=b57edc&currStreakLabel=b57edc&sideNums=6ea8fe&sideLabels=6ea8fe&dates=2dd4bf"/>
 </p>
 
 ---
