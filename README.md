@@ -120,11 +120,6 @@
     src="https://streak-stats.demolab.com/?user=radhika817&hide_border=true&background=1c1b29&ring=6ea8fe&fire=6ea8fe&currStreakNum=b57edc&currStreakLabel=b57edc&sideNums=6ea8fe&sideLabels=6ea8fe&dates=2dd4bf"/>
 </p>
 
-<p align="center">
-  <img alt="Contribution Graph" width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=radhika817&bg_color=1c1b29&color=2dd4bf&line=6ea8fe&point=b57edc&area=true&hide_border=true"/>
-</p>
-
 ---
 
 ## 🌱 My Developer Journey
