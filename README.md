@@ -71,36 +71,7 @@ const radhika = {
   </tr>
 </table>
 
----
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🚗 SmartRide</h3>
-      <b>Smart Carpooling Platform</b>
-      <p>Connects commuters, matches routes, and makes everyday travel cheaper and more convenient.</p>
-      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🤖 AI Buddy</h3>
-      <b>Virtual Meeting Assistant</b>
-      <p>Summarizes discussions, extracts action items, tracks decisions, and answers meeting-related questions.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI%20Agents-b57edc?style=flat-square"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎯 PrepPulse</h3>
-      <b>Interview Preparation Platform</b>
-      <p>Helps students prepare for technical interviews with curated questions, company-focused prep, and AI-assisted learning.</p>
-      <img src="https://img.shields.io/badge/Full--Stack-6ea8fe?style=flat-square"/>
-      <img src="https://img.shields.io/badge/AI-b57edc?style=flat-square"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
