@@ -63,23 +63,18 @@ const radhika = {
 
 ## 📈 Stats & Problem Solving
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img height="170" alt="Radhika's GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=radhika817&show_icons=true&hide_border=true&bg_color=1c1b29&title_color=6ea8fe&text_color=2dd4bf&icon_color=b57edc&count_private=true&include_all_commits=true"/>
-    </td>
-    <td align="center" width="50%">
-      <img height="170" alt="Most Used Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhika817&layout=compact&hide_border=true&bg_color=1c1b29&title_color=6ea8fe&text_color=2dd4bf&langs_count=6"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://leetcard.jacoblin.cool/radhikakandalkar_23?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="80%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/radhika817?style=for-the-badge&logo=github&labelColor=1c1b29&color=6ea8fe" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/radhika817?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=1c1b29&color=2dd4bf" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-View-b57edc?style=for-the-badge&logo=github&labelColor=1c1b29" alt="Repos"/>
+</p>
+
+<p align="center">
+  <img height="170" alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhika817&layout=compact&hide_border=true&bg_color=1c1b29&title_color=6ea8fe&text_color=2dd4bf&langs_count=6"/>
+  <img height="170" alt="LeetCode Stats"
+    src="https://leetcard.jacoblin.cool/radhikakandalkar_23?theme=dark&font=Fira%20Code&ext=heatmap"/>
+</p>
 
 <details>
 <summary><b>🧠 My approach to problem solving</b></summary>
